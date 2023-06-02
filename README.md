@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nivasreddy2401@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1T96s6xyt2efdmrTHlloznQhmBLMMw-yk/view?usp=drivesdk](https://drive.google.com/file/d/1T96s6xyt2efdmrTHlloznQhmBLMMw-yk/view?usp=drivesdk)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1T96s6xyt2efdmrTHlloznQhmBLMMw-yk/view?usp=drivesdk">Resume</a>
 
 
 <p align="left">
