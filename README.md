@@ -26,7 +26,6 @@
 
 <div align="center">
 <a href="https://github.com/nivasreddy2400">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nivasreddy2400&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nivasreddy2400&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nivasreddy2400&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nivasreddy2400&theme=2077" height="180em" />
