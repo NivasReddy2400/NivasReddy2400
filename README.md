@@ -17,7 +17,5 @@ linkedin.com/in/nivas-pinnapureddy-36835a194 " height="30" width="40" /></a><a h
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nivasreddy2400&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nivasreddy2400&theme=2077" height="180em" />
 </div>
-<h3>Spotify</h3>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=314go4ylxg6c6ufezwvyc6e77n6u&count=2&unique={true|1|on|yes}"/>
 
 
